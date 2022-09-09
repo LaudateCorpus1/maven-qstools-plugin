@@ -62,7 +62,7 @@
         <maven.version>3.3.9</maven.version>
         <httpclient.version>4.5.2</httpclient.version>
         <version.shrinkwrap.resolvers>2.2.6</version.shrinkwrap.resolvers>
-        <yaml.version>1.11</yaml.version>
+        <yaml.version>1.26</yaml.version>
         <junit.version>4.10</junit.version>
         <juniversalchardet.version>1.0.3</juniversalchardet.version>
         <stacks-client.version>1.0.3.Final</stacks-client.version>
